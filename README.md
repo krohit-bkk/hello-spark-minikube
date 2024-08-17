@@ -1,7 +1,7 @@
 # hello-spark-minikube
 Beginner friendly guide on setting up and running your first Spark application on Minikube. 🚀
 
-This repository contains Dockerfile and PySpark code which is used in demonstrating this blog - [Hello Spark on Minikube
+This repository contains code and commands used in the demonstration shown in this blog - [Hello Spark on Minikube
 ](https://krohit-de.hashnode.dev/hello-spark-on-minikube)
 
 ## Please refer to below commands used in the tutorial
